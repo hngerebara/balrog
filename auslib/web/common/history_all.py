@@ -69,17 +69,14 @@ def get_permissions_history():
 
 
 def get_permissions_scheduled_change_history():
-    """GET /history/scheduled_changes/permissions"""
     return PermissionScheduledChangeHistoryView().get_all()
 
 
 def get_rules_scheduled_change_history():
-    """GET /history/scheduled_changes/permissions"""
     return RuleScheduledChangeHistoryView().get_all()
 
 
 def get_releases_scheduled_change_history():
-    """GET /history/scheduled_changes/permissions"""
     return ReleaseScheduledChangeHistoryView().get_all()
 
 
@@ -107,7 +104,6 @@ def rules_history():
         'rules':methods.get('rules'),
         'sc_rules':methods.get('sc_rules')
      }
-    print(methods.values,"===================")
     histories = {
         'Rules': json.loads(history['rules'].data), 
         'Rules scheduled change': json.loads(history['sc_rules'].data)
