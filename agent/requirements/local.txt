@@ -237,9 +237,9 @@ regex==2020.7.14 \
     --hash=sha256:d6cff2276e502b86a25fd10c2a96973fdb45c7a977dca2138d661417f3728341 \
     --hash=sha256:e46d13f38cfcbb79bfdb2964b0fe12561fe633caf964a77a5f8d4e45fe5d2ef7 \
     # via black
-sentry-sdk==0.17.4 \
-    --hash=sha256:97bff68e57402ad39674e6fe2545df0d5eea41c3d51e280c170761705c8c20ff \
-    --hash=sha256:a16caf9ce892623081cbb9a95f6c1f892778bb123909b0ed7afdfb52ce7a58a1 \
+sentry-sdk==0.19.1 \
+    --hash=sha256:0eea248408d36e8e7037c7b73827bea20b13a4375bf1719c406cae6fcbc094e3 \
+    --hash=sha256:5cf36eb6b1dc62d55f3c64289792cbaebc8ffa5a9da14474f49b46d20caa7fc8 \
     # via -r base.in
 six==1.15.0 \
     --hash=sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259 \
