@@ -747,7 +747,7 @@ pip==20.2.3 \
     --hash=sha256:0f35d63b7245205f4060efe1982f5ea2196aa6e5b26c07669adcf800e2542026 \
     --hash=sha256:30c70b6179711a7c4cf76da89e8a0f5282279dfb0278bec7b94134be92543b6d \
     # via -r test.in, pip-tools
-setuptools==50.3.0 \
-    --hash=sha256:39060a59d91cf5cf403fa3bacbb52df4205a8c3585e0b9ba4b30e0e19d4c4b18 \
-    --hash=sha256:c77b3920663a435c9450d9d971c48f5a7478fca8881b2cd2564e59f970f03536 \
+setuptools==51.1.0.post20201221 \
+    --hash=sha256:2bb28dd69df43800ed69bc415d6af73eeaf59c5ca3a6d759daf528f72f5b76bf \
+    --hash=sha256:b19bdbc197e43337d350cc3806497ab6022802175dfb1abea16c0c3afd233f03 \
     # via -r base.in, check-manifest, google-api-core, google-auth, jsonschema, protobuf
