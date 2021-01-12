@@ -183,9 +183,9 @@ coverage==5.2.1 \
     --hash=sha256:ce7866f29d3025b5b34c2e944e66ebef0d92e4a4f2463f7266daa03a1332a651 \
     --hash=sha256:e26c993bd4b220429d4ec8c1468eca445a4064a61c74ca08da7429af9bc53bb0 \
     # via -r test.in, coveralls, pytest-cov
-coveralls==2.1.2 \
-    --hash=sha256:4430b862baabb3cf090d36d84d331966615e4288d8a8c5957e0fd456d0dd8bd6 \
-    --hash=sha256:b3b60c17b03a0dee61952a91aed6f131e0b2ac8bd5da909389c53137811409e1 \
+coveralls==3.0.0 \
+    --hash=sha256:5399c0565ab822a70a477f7031f6c88a9dd196b3de2877b3facb43b51bd13434 \
+    --hash=sha256:f8384968c57dee4b7133ae701ecdad88e85e30597d496dcba0d7fbb470dca41f \
     # via -r test.in
 cryptography==3.0 \
     --hash=sha256:0c608ff4d4adad9e39b5057de43657515c7da1ccb1807c3a27d4cf31fc923b4b \
