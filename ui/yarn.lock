@@ -6713,10 +6713,10 @@ mdi-react@^4.0.0:
   resolved "https://registry.yarnpkg.com/mdi-react/-/mdi-react-4.4.0.tgz#5901a3eda1f0dc5eacec1b13f2e2ee40e883b791"
   integrity sha512-IxWW/10EHSYSDz5Hce1JzgvBiNtUHWERVDRWY6S+Bc07zUjWcRvQFDQND8GIgXG2Mnr/7uQFk25MBtSgLHQ0Gw==
 
-mdi-react@^7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/mdi-react/-/mdi-react-7.3.0.tgz#70a3d1ebe892e0b4cc18f413472d1b83b9158ba2"
-  integrity sha512-pG7nAhzUMHzlI/6jRMvyujMSpuM93gGcTIirpQBYq5zheNf6MkqR4BAMWcwWnK5759MRBqgTusbQm1YHnkJe9Q==
+mdi-react@^7.5.0:
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/mdi-react/-/mdi-react-7.5.0.tgz#f4a5782ea8f181647287f259eecc5af52cf67ccd"
+  integrity sha512-giWvxmBKcqOnhN2ekKN1VvFA9/YF2X5CrZyo7S2EcTZktT0chMreIPVCDF2Q3rjoHTWD7tR+cNsTopeDSaeYHg==
 
 mdurl@^1.0.1:
   version "1.0.1"
